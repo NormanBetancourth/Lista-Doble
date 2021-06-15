@@ -1,0 +1,3 @@
+C:/Users/norma/source/repos/Progra II/Varios/ListaDoble/cmake-build-debug/CMakeFiles/ListaDoble.dir
+C:/Users/norma/source/repos/Progra II/Varios/ListaDoble/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/norma/source/repos/Progra II/Varios/ListaDoble/cmake-build-debug/CMakeFiles/rebuild_cache.dir
